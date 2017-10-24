@@ -1,1 +1,1 @@
-web: python namaco/server/server.py
+web: python server.py
